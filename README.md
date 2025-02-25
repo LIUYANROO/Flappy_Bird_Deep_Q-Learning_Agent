@@ -6,7 +6,7 @@ Youtube video link：https://youtu.be/uA6iLdWU7fM
 
 
 <p align="center">
-  <img src="game.png" alt="game image" width="200" style="margin-right: 30px;">
+  <img src="game.png" alt="game image" width="200" style="margin-right: 50px;">
   <img src="game demaonstration.gif" alt="game demonstration" width="200">
 </p>
 
