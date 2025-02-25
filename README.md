@@ -5,7 +5,7 @@ This repository contains the Jupyter Notebook for training and evaluating a **De
 Youtube video link：https://youtu.be/uA6iLdWU7fM
 
 
-<p style="text-align: center;">
+<p align="center">
   <img src="game.png" alt="game image" width="200" style="margin-right: 30px;">
   <img src="game demaonstration.gif" alt="game demonstration" width="200">
 </p>
