@@ -4,7 +4,10 @@ This repository contains the Jupyter Notebook for training and evaluating a **De
 
 Youtube video link：https://youtu.be/uA6iLdWU7fM
 
-![flappybird](game.png)
+<div align="center">
+  <img src="game.png" alt="game image" width="300">
+</div>
+
 
 
 ## Description
