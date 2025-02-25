@@ -3,7 +3,8 @@
 This repository contains the Jupyter Notebook for training and evaluating a **Deep Q-Learning (DQN)** agent to play the **Flappy Bird** game.
 
 Youtube video link：https://youtu.be/uA6iLdWU7fM
-![flappybird](/my-image.png)
+
+![flappybird](game.png)
 
 
 ## Description
